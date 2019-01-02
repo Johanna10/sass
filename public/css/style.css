@@ -5,6 +5,7 @@
  * Copyright 2011-2018 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+@import '../../node_modules/@fortawesome/fontawesome-free/css/all.min.css';
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -9510,6 +9511,21 @@ h3 {
     color: inherit;
     border-color: #dee2e6;
   }
+}
+.btn {
+  background-color: #495BBD !important;
+}
+
+.background {
+  background-color: #E7E7DE !important;
+}
+
+.col-3 {
+  background-color: #E1DFDF !important;
+}
+
+h3 {
+  font-weight: 300;
 }
 
 /*# sourceMappingURL=style.css.map */
