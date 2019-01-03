@@ -9537,4 +9537,17 @@ h3 {
   background-color: #3D4361 !important;
 }
 
+.last-background {
+  background-color: #495BBD !important;
+}
+
+ul {
+  list-style-type: none;
+  justify-content: center;
+}
+
+.last {
+  background-color: #3A3A49 !important;
+}
+
 /*# sourceMappingURL=style.css.map */
