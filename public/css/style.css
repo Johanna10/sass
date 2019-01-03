@@ -9520,12 +9520,21 @@ h3 {
   background-color: #E7E7DE !important;
 }
 
-.col-3 {
+.col {
   background-color: #E1DFDF !important;
 }
 
 h3 {
   font-weight: 300;
+}
+
+.pl-40 {
+  padding-left: 40px !important;
+  padding-right: 0 !important;
+}
+
+.card-body {
+  background-color: #3D4361 !important;
 }
 
 /*# sourceMappingURL=style.css.map */
